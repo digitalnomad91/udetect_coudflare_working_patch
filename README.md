@@ -12,6 +12,6 @@ Still waiting on this (seemingly) more robust method to be implemented & release
 https://github.com/ultrafunkamsterdam/undetected-chromedriver/discussions/1420
 
 I also put together a small browser extension that can run in Chrome or Firefox that worked well enough to get me through the periods where CF was winning. Will probably be useful for if/when there are no known solutions like right now:
-https://github.com/digitalnomad91/cloudflare-bypass-extension=
+https://github.com/digitalnomad91/cloudflare-bypass-extension
 
 Note: Don't forget to pip3 install the packages imported below & then you can run python3 fuck_cloudflare.py and check if it is working.
