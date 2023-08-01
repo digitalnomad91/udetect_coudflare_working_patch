@@ -1,4 +1,4 @@
-# Working implementation of this 3rd patch for undetect_chromedriver (single python file)
+# Implementation of working 3rd patch for undetect_chromedriver
 
 Here is the latest version of flaresolverr with this fix implemented: 
 https://github.com/Dexcelerate/FlareSolverr-udetect-patch/ 
